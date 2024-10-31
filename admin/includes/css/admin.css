@@ -1,0 +1,40 @@
+.rozetta-setting-item{
+    display: flex;
+}
+
+.rozetta-setting-item .rozetta-setting-label{
+	min-width: 150px;
+}
+
+.rozetta-setting-item .rozetta-setting-input{
+	min-width: 300px;
+}
+
+.rozetta-lang-item{
+	margin-bottom: 8px;
+}
+
+.rozetta-metabox .rozetta-metabox-select{
+	margin: 2px 0;
+}
+
+.rozetta-metabox .rozetta-lang-set{
+	display: flex;
+	align-items: center;
+	margin-bottom: 5px;
+}
+
+.rozetta-metabox .rozetta-metabox-select-lang{
+	width: 50%;
+	margin: 2px 0;
+}
+
+.rozetta-metabox .rozetta-translator-after{
+	display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.rozetta-metabox .rozetta-translator-after button{
+	width: fit-content;
+}

@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
+
+#. Test word
+msgid "apple"
+msgstr "リンゴ"
+
+#. Menu - Overview
+msgid "Overview"
+msgstr "一覧"
+
+#. Menu - Overview - Access Key
+msgid "Access Key: %s"
+msgstr "アクセスキー: %s"
+
+#. Menu - Overview - Secret Key
+msgid "Secret Key: %s"
+msgstr "シークレットキー: %s"
+
+#. Menu - Overview - Contract ID
+msgid "Contract ID: %s"
+msgstr "契約ID: %s"
+
+#. Menu - Setting
+msgid "Setting"
+msgstr "設定"
+
+#. Menu - Setting - Access Key
+msgid "Access Key"
+msgstr "アクセスキー"
+
+#. Menu - Setting - Secret Key
+msgid "Secret Key"
+msgstr "シークレットキー"
+
+#. Menu - Setting - Contract ID
+msgid "Contract ID"
+msgstr "契約ID"
+
+#. Menu - Setting - Save
+msgid "Save"
+msgstr "保存"
+
+#. Menu - Setting - Saving Failed
+msgid "Saving Failed"
+msgstr "保存失敗しました。"
+
+#. Menu - Setting - Saving Success
+msgid "Saving Success"
+msgstr "保存されました。"
+
+#. Menu - Custom Post Type
+msgid "Custom Post Type"
+msgstr "カスタム投稿タイプ"
+
+#. Menu - Custom Post Type - Message
+msgid "Use comma to concat your custom post type slug. For example: news,info,collection"
+msgstr "スラッグをコンマで区切りしてください。例：news,info,collection"
+
+#. Editor - Specialized Field
+msgid "Specialized Field"
+msgstr "専門分野"
+
+#. Editor - Original Language
+msgid "Original Language"
+msgstr "原文言語"
+
+#. Editor - Translated Language
+msgid "Translated Language"
+msgstr "訳文言語"
+
+#. Editor - Translate
+msgid "Translate"
+msgstr "翻訳"
+
+#. Editor - Translating
+msgid "Translating..."
+msgstr "翻訳中..."
+
+#. Editor - Translation Success
+msgid "Translation Success!"
+msgstr "翻訳完了！"
+
+#. Editor - Undo
+msgid "Undo"
+msgstr "元に戻す"
+
+#. Editor - Post Language
+msgid "Post Language:"
+msgstr "投稿言語："
+
+#. Editor - Post in other languages
+msgid "Posts in other languages:"
+msgstr "別言語の投稿："
+
+#. Editor - Add Language
+msgid "Add Post in Language:"
+msgstr "別言語の投稿を作成："
+
+#. Editor - Add Post
+msgid "Add Post"
+msgstr "投稿作成"
+
+#. Editor - Copy Customized Field From Original Post
+msgid "Copy Customized Field"
+msgstr "カスタマイズフィールドをコピー"
+
+#. Editor - Confirme Copy Customized Field
+msgid "Are you sure to copy the Customized Field to current post from Original Post?"
+msgstr "原文のカスタマイズフィールドから内容を適用してもよろしいでしょうか？（現在の内容は上書きされます）"
+
+#. Multilingual - Title
+msgid "Multilingual"
+msgstr "多言語設定"
+
+#. Multilingual - Enable Multilingual
+msgid "Enable Multilingual"
+msgstr "多言語機能を有効にする"
+
+#. Multilingual - Active Languages
+msgid "Active Languages"
+msgstr "適用されている言語"
+
+#. Multilingual - Delete
+msgid "Delete"
+msgstr "言語削除"
+
+#. Multilingual - Delete Empty
+msgid "Language is not selected"
+msgstr "言語が選択されていない"
+
+#. Multilingual - Add Language
+msgid "Add Language"
+msgstr "言語追加"
+
+#. Post - Locale
+msgid "Locale"
+msgstr "言語"
+
+#. Post - Posts in other language
+msgid "Posts in other language"
+msgstr "別言語の投稿"
+
+#. Custom Menu CSS - Title
+msgid "Custom Menu CSS"
+msgstr "言語メニューカスタムCSS"
+
+#. Custom Menu CSS - collapse menu
+msgid "Enable click to collapse menu"
+msgstr "クリックでメニューを展開する"
+
+#. Widget - Language switcher
+msgid "Language Switcher"
+msgstr "言語切り替え"
+
+#. Language - Name
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Chinese (Simplified)"
+msgstr "中国語(簡体)"
+
+msgid "Chinese (Traditional)"
+msgstr "中国語(繁体)"
+
+msgid "Korean"
+msgstr "韓国語"
+
+msgid "Icelandic"
+msgstr "アイスランド語"
+
+msgid "Irish"
+msgstr "アイルランド語"
+
+msgid "Azerbaijani"
+msgstr "アゼルバイジャン語"
+
+msgid "Africans"
+msgstr "アフリカーンス語"
+
+msgid "Afrikaans"
+msgstr "アムハラ語"
+
+msgid "Arabic"
+msgstr "アラビア語"
+
+msgid "Albanian"
+msgstr "アルバニア語"
+
+msgid "Armenian"
+msgstr "アルメニア語"
+
+msgid "Italian"
+msgstr "イタリア語"
+
+msgid "Yiddish"
+msgstr "イディッシュ語"
+
+msgid "Igbo"
+msgstr "イボ語"
+
+msgid "Indonesian"
+msgstr "インドネシア語"
+
+msgid "Welsh"
+msgstr "ウェールズ語"
+
+msgid "Ukrainian"
+msgstr "ウクライナ語"
+
+msgid "Uzbek"
+msgstr "ウズベク語"
+
+msgid "Urdu"
+msgstr "ウルドゥー語"
+
+msgid "Estonian"
+msgstr "エストニア語"
+
+msgid "Esperantido"
+msgstr "エスペラント語"
+
+msgid "Dutch"
+msgstr "オランダ語"
+
+msgid "Kazakh"
+msgstr "カザフ語"
+
+msgid "Catalan"
+msgstr "カタルーニャ語"
+
+msgid "Canadian"
+msgstr "カンナダ語"
+
+msgid "Galician"
+msgstr "ガリシア語"
+
+msgid "Kyrgyz"
+msgstr "キルギス語"
+
+msgid "Greek"
+msgstr "ギリシャ語"
+
+msgid "Khmer"
+msgstr "クメール語"
+
+msgid "Kurdish"
+msgstr "クルド語"
+
+msgid "Creole (Haiti)"
+msgstr "クレオール語(ハイチ)"
+
+msgid "Croatian"
+msgstr "クロアチア語"
+
+msgid "Gujarati"
+msgstr "グジャラト語"
+
+msgid "Georgian"
+msgstr "グルジア語"
+
+msgid "Corsican"
+msgstr "コルシカ語"
+
+msgid "Xhosa"
+msgstr "コーサ語"
+
+msgid "Samoan"
+msgstr "サモア語"
+
+msgid "Shona"
+msgstr "ショナ語"
+
+msgid "Sindhi"
+msgstr "シンド語"
+
+msgid "Sinhala"
+msgstr "シンハラ語"
+
+msgid "Javanese"
+msgstr "ジャワ語"
+
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+msgid "Scottish"
+msgstr "スコットランド ゲール語"
+
+msgid "Spanish"
+msgstr "スペイン語"
+
+msgid "Slovak"
+msgstr "スロバキア語"
+
+msgid "Slovenian"
+msgstr "スロベニア語"
+
+msgid "Swahili"
+msgstr "スワヒリ語"
+
+msgid "Sudanese"
+msgstr "スンダ語"
+
+msgid "Zulu"
+msgstr "ズールー語"
+
+msgid "Cebuano"
+msgstr "セブ語"
+
+msgid "Serbian"
+msgstr "セルビア語"
+
+msgid "Sesotho"
+msgstr "ソト語"
+
+msgid "Somali"
+msgstr "ソマリ語"
+
+msgid "Thai"
+msgstr "タイ語"
+
+msgid "Tagalog (Filipino)"
+msgstr "タガログ語(フィリピン語)"
+
+msgid "Tajik"
+msgstr "タジク語"
+
+msgid "Tamil"
+msgstr "タミル語"
+
+msgid "Czech"
+msgstr "チェコ語"
+
+msgid "Telugu"
+msgstr "テルグ語"
+
+msgid "Danish"
+msgstr "デンマーク語"
+
+msgid "Turkish"
+msgstr "トルコ語"
+
+msgid "German"
+msgstr "ドイツ語"
+
+msgid "Nyanja (Chewa)"
+msgstr "ニャンジャ語(チェワ語)"
+
+msgid "Nepali"
+msgstr "ネパール語"
+
+msgid "Norwegian"
+msgstr "ノルウェー語"
+
+msgid "Hausa"
+msgstr "ハウサ語"
+
+msgid "Hawaian"
+msgstr "ハワイ語"
+
+msgid "Hungarian"
+msgstr "ハンガリー語"
+
+msgid "Basque"
+msgstr "バスク語"
+
+msgid "Pashto"
+msgstr "パシュト語"
+
+msgid "Punjabi"
+msgstr "パンジャブ語"
+
+msgid "Hindi"
+msgstr "ヒンディー語"
+
+msgid "Finnish"
+msgstr "フィンランド語"
+
+msgid "French"
+msgstr "フランス語"
+
+msgid "Frisian"
+msgstr "フリジア語"
+
+msgid "Bulgarian"
+msgstr "ブルガリア語"
+
+msgid "Hebrew"
+msgstr "ヘブライ語"
+
+msgid "Vietnamese"
+msgstr "ベトナム語"
+
+msgid "Belarusian"
+msgstr "ベラルーシ語"
+
+msgid "Bengali (Bangladesh)"
+msgstr "ベンガル語(バングラデシュ)"
+
+msgid "Persian"
+msgstr "ペルシャ語"
+
+msgid "Bosnian"
+msgstr "ボスニア語"
+
+msgid "Portuguese (Portugal, Brazil)"
+msgstr "ポルトガル語(ポルトガル、ブラジル)"
+
+msgid "Polish"
+msgstr "ポーランド語"
+
+msgid "Maori"
+msgstr "マオリ語"
+
+msgid "Macedonian"
+msgstr "マケドニア語"
+
+msgid "Malagasian"
+msgstr "マラガシ語"
+
+msgid "Malayalam"
+msgstr "マラヤーラム語"
+
+msgid "Marathi"
+msgstr "マラーティー語"
+
+msgid "Maltese"
+msgstr "マルタ語"
+
+msgid "Malay"
+msgstr "マレー語"
+
+msgid "Hmong"
+msgstr "ミャオ語"
+
+msgid "Myanmar (Burmese)"
+msgstr "ミャンマー語 (ビルマ語)"
+
+msgid "Mongolian"
+msgstr "モンゴル語"
+
+msgid "Yoruba"
+msgstr "ヨルバ語"
+
+msgid "Lao"
+msgstr "ラオ語"
+
+msgid "Latin"
+msgstr "ラテン語"
+
+msgid "Latvian"
+msgstr "ラトビア語"
+
+msgid "Lithuanian"
+msgstr "リトアニア語"
+
+msgid "Luxembourgish"
+msgstr "ルクセンブルク語"
+
+msgid "Romanian"
+msgstr "ルーマニア語"
+
+msgid "Russian"
+msgstr "ロシア語"

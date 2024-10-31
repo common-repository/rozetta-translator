@@ -1,0 +1,465 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+
+#. Test word
+msgid "apple"
+msgstr ""
+
+#. Menu - Overview
+msgid "Overview"
+msgstr ""
+
+#. Menu - Overview - Access Key
+msgid "Access Key: %s"
+msgstr ""
+
+#. Menu - Overview - Secret Key
+msgid "Secret Key: %s"
+msgstr ""
+
+#. Menu - Overview - Contract ID
+msgid "Contract ID: %s"
+msgstr ""
+
+#. Menu - Setting
+msgid "Setting"
+msgstr ""
+
+#. Menu - Setting - Access Key
+msgid "Access Key"
+msgstr ""
+
+#. Menu - Setting - Secret Key
+msgid "Secret Key"
+msgstr ""
+
+#. Menu - Setting - Contract ID
+msgid "Contract ID"
+msgstr ""
+
+#. Menu - Setting - Save
+msgid "Save"
+msgstr ""
+
+#. Menu - Setting - Saving Failed
+msgid "Saving Failed"
+msgstr ""
+
+#. Menu - Setting - Saving Success
+msgid "Saving Success"
+msgstr ""
+
+#. Menu - Custom Post Type
+msgid "Custom Post Type"
+msgstr ""
+
+#. Menu - Custom Post Type - Message
+msgid "Use comma to concat your custom post type slug. For example: news,info,collection"
+msgstr ""
+
+#. Editor - Specialized Field
+msgid "Specialized Field"
+msgstr ""
+
+#. Editor - Original Language
+msgid "Original Language"
+msgstr ""
+
+#. Editor - Translated Language
+msgid "Translated Language"
+msgstr ""
+
+#. Editor - Translate
+msgid "Translate"
+msgstr ""
+
+#. Editor - Translating
+msgid "Translating..."
+msgstr ""
+
+#. Editor - Translation Success
+msgid "Translation Success!"
+msgstr ""
+
+#. Editor - Undo
+msgid "Undo"
+msgstr ""
+
+#. Editor - Post Language
+msgid "Post Language:"
+msgstr ""
+
+#. Editor - Post in other Languages
+msgid "Posts in other languages:"
+msgstr ""
+
+#. Editor - Add Language
+msgid "Add Post in Language:"
+msgstr ""
+
+#. Editor - Add Post
+msgid "Add Post"
+msgstr ""
+
+#. Editor - Copy Customized Field From Original Post
+msgid "Copy Customized Field"
+msgstr ""
+
+#. Editor - Confirme Copy Customized Field
+msgid "Are you sure to copy the Customized Field to current post from Original Post?"
+msgstr ""
+
+#. Multilingual - Title
+msgid "Multilingual"
+msgstr ""
+
+#. Multilingual - Enable Multilingual
+msgid "Enable Multilingual"
+msgstr ""
+
+#. Multilingual - Active Languages
+msgid "Active Languages"
+msgstr ""
+
+#. Multilingual - Delete
+msgid "Delete"
+msgstr ""
+
+#. Multilingual - Delete Empty
+msgid "Language is not selected"
+msgstr ""
+
+#. Multilingual - Add Language
+msgid "Add Language"
+msgstr ""
+
+#. Post - Locale
+msgid "Locale"
+msgstr ""
+
+#. Post - Posts in other language
+msgid "Posts in other language"
+msgstr ""
+
+#. Custom Menu CSS - Title
+msgid "Custom Menu CSS"
+msgstr ""
+
+#. Custom Menu CSS - collapse menu
+msgid "Enable click to collapse menu"
+msgstr ""
+
+#. Widget - Language switcher
+msgid "Language Switcher"
+msgstr ""
+
+#. Language - Name
+msgid "Japanese"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Chinese (Simplified)"
+msgstr ""
+
+msgid "Chinese (Traditional)"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Icelandic"
+msgstr ""
+
+msgid "Irish"
+msgstr ""
+
+msgid "Azerbaijani"
+msgstr ""
+
+msgid "Africans"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Albanian"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Yiddish"
+msgstr ""
+
+msgid "Igbo"
+msgstr ""
+
+msgid "Indonesian"
+msgstr ""
+
+msgid "Welsh"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr ""
+
+msgid "Uzbek"
+msgstr ""
+
+msgid "Urdu"
+msgstr ""
+
+msgid "Estonian"
+msgstr ""
+
+msgid "Esperantido"
+msgstr ""
+
+msgid "Dutch"
+msgstr ""
+
+msgid "Kazakh"
+msgstr ""
+
+msgid "Catalan"
+msgstr ""
+
+msgid "Canadian"
+msgstr ""
+
+msgid "Galician"
+msgstr ""
+
+msgid "Kyrgyz"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Khmer"
+msgstr ""
+
+msgid "Kurdish"
+msgstr ""
+
+msgid "Creole (Haiti)"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Gujarati"
+msgstr ""
+
+msgid "Georgian"
+msgstr ""
+
+msgid "Corsican"
+msgstr ""
+
+msgid "Xhosa"
+msgstr ""
+
+msgid "Samoan"
+msgstr ""
+
+msgid "Shona"
+msgstr ""
+
+msgid "Sindhi"
+msgstr ""
+
+msgid "Sinhala"
+msgstr ""
+
+msgid "Javanese"
+msgstr ""
+
+msgid "Swedish"
+msgstr ""
+
+msgid "Scottish"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Slovak"
+msgstr ""
+
+msgid "Slovenian"
+msgstr ""
+
+msgid "Swahili"
+msgstr ""
+
+msgid "Sudanese"
+msgstr ""
+
+msgid "Zulu"
+msgstr ""
+
+msgid "Cebuano"
+msgstr ""
+
+msgid "Serbian"
+msgstr ""
+
+msgid "Sesotho"
+msgstr ""
+
+msgid "Somali"
+msgstr ""
+
+msgid "Thai"
+msgstr ""
+
+msgid "Tagalog (Filipino)"
+msgstr ""
+
+msgid "Tajik"
+msgstr ""
+
+msgid "Tamil"
+msgstr ""
+
+msgid "Czech"
+msgstr ""
+
+msgid "Telugu"
+msgstr ""
+
+msgid "Danish"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Nyanja (Chewa)"
+msgstr ""
+
+msgid "Nepali"
+msgstr ""
+
+msgid "Norwegian"
+msgstr ""
+
+msgid "Hausa"
+msgstr ""
+
+msgid "Hawaian"
+msgstr ""
+
+msgid "Basque"
+msgstr ""
+
+msgid "Pashto"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "Frisian"
+msgstr ""
+
+msgid "Bulgarian"
+msgstr ""
+
+msgid "Hebrew"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Bengali (Bangladesh)"
+msgstr ""
+
+msgid "Persian"
+msgstr ""
+
+msgid "Bosnian"
+msgstr ""
+
+msgid "Portuguese (Portugal, Brazil)"
+msgstr ""
+
+msgid "Polish"
+msgstr ""
+
+msgid "Maori"
+msgstr ""
+
+msgid "Macedonian"
+msgstr ""
+
+msgid "Malagasian"
+msgstr ""
+
+msgid "Malayalam"
+msgstr ""
+
+msgid "Marathi"
+msgstr ""
+
+msgid "Maltese"
+msgstr ""
+
+msgid "Malay"
+msgstr ""
+
+msgid "Hmong"
+msgstr ""
+
+msgid "Myanmar (Burmese)"
+msgstr ""
+
+msgid "Mongolian"
+msgstr ""
+
+msgid "Yoruba"
+msgstr ""
+
+msgid "Lao"
+msgstr ""
+
+msgid "Latvian"
+msgstr ""
+
+msgid "Luxembourgish"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
